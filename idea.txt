@@ -1,0 +1,3 @@
+x processw w czytelni
+    writer dodaje x wiadomosci - kazdy sobie ladnie zczytuje
+    
